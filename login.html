@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>UniLoL</title>
+  </head>
+  <body>
+<div class="flex-container">
+
+  <section class="banner">
+    <header>
+      <h1><strong>UniMail</strong></h1>
+    </header>
+  </section>
+  <section class="login">
+    <img class="avatar" src="http://cdn.onlinewebfonts.com/svg/img_568656.png" alt="Avatar Login">
+    <section class="campos">
+
+    <form class="" action="index.html" method="post">
+      <input type="email" placeholder="Usuário">
+      <input class= "campoEmbaixo" type="password" placeholder="Senha">
+    </form>
+    </section>
+    <section >
+      <a href="listagem.html">
+        <input type="button" name="botão" value="Entrar" href="" class="botao botao2">
+      </a>
+    </section>
+
+  </section>
+
+</div>
+  </body>
+</html>
